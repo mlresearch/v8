@@ -1,0 +1,41 @@
+# Site settings
+# Auto generated from v8.bib
+---
+booktitle: Proceedings of the third International Workshop on Machine Learning in
+  Systems Biology, September 5-6, 2009
+address: Ljubljana, Slovenia
+publisher: JMLR Workshop and Conference Proceedings
+volume: 8
+year: '2009'
+shortname: MLSB 2009
+sections:
+- name: preface
+  title: Preface
+- name: default
+  title: Accepted Papers
+layout: proceedings
+key: DzeroskiMLSB2009
+month: 0
+abstract: 
+origpdf: 
+pdf: "./DzeroskiMLSB2009/DzeroskiMLSB2009.pdf"
+editors:
+- given: Sa\v{s}o
+  family: D\v{z}eroski
+- given: Pierre
+  family: Guerts
+- given: Juho
+  family: Rousu
+title: Proceedings of the third International Workshop on Machine Learning in Systems
+  Biology, September 5-6, 2009
+conference: Proceedings of the third International Workshop on Machine Learning in
+  Systems Biology, September 5-6, 2009
+email: ''
+description: Proceedings of the third International Workshop on Machine Learning in
+  Systems Biology, September 5-6, 2009, Ljubljana, Slovenia
+url: http://proceedings.mlr.press
+baseurl: "/v8"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"

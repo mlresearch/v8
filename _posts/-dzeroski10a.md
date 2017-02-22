@@ -1,0 +1,26 @@
+---
+title: 'Proceedings of the Third International Workshop on Machine Learning in Systems
+  Biology: Revised Selected Papers'
+abstract: MLSB09, the Third International Workshop on Machine Learning in Systems
+  Biology was held in Ljubljana, Slovenia on September 5-6 2009 at the Jožef Stefan
+  Institute. This volume contains revised selected papers presented at the workshop.  The
+  technical program of the workshop consisted of 6 invited lectures, 12 oral presentations
+  and 22 poster presentations. All the lectures were recorded and are available for
+  viewing via the  videolectures.net  portal. More information on the workshop can
+  be found at  mlsb09.ijs.si
+pdf: "./dzeroski10a/dzeroski10a.pdf"
+layout: inproceedings
+key: dzeroski10a
+month: 0
+firstpage: 1
+lastpage: 2
+origpdf: http://jmlr.org/proceedings/papers/v8/dzeroski10a/dzeroski10a.pdf
+sections: 
+authors:
+- given: Sašo
+  family: Džeroski
+- given: Pierre
+  family: Geurts
+- given: Juho
+  family: Rousu
+---

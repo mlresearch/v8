@@ -1,0 +1,33 @@
+---
+title: Predicting the functions of proteins in Protein-Protein Interaction networks
+  from global information
+abstract: In this work we present a novel approach to predict the function of proteins
+  in protein-protein interaction (PPI) networks.  We classify existing approaches
+  into inductive and transductive approaches, and into local and global approaches.  As
+  of yet, among the group of inductive approaches, only local ones have been proposed
+  for protein function prediction.  We here introduce a protein description formalism
+  that also includes global information, namely information that locates a protein
+  relative to specific important proteins in the network.  We analyze the effect on
+  function prediction accuracy of selecting a different number of important proteins.  With
+  around 70 important proteins, even in large graphs, our method makes good and stable
+  predictions.  Furthermore, we investigate whether our method also classifies proteins
+  accurately on more detailed function levels. We examined up to five different function
+  levels.  The method is benchmarked on four datasets where we found classification
+  performance according to F-measure values indeed improves by 9 percent over the
+  benchmark methods employed.
+pdf: "./rahmani10a/rahmani10a.pdf"
+layout: inproceedings
+key: rahmani10a
+month: 0
+firstpage: 82
+lastpage: 97
+origpdf: http://jmlr.org/proceedings/papers/v8/rahmani10a/rahmani10a.pdf
+sections: 
+authors:
+- given: Hossein
+  family: Rahmani
+- given: Hendrik
+  family: Blockeel
+- given: Andreas
+  family: Bender
+---
