@@ -2,7 +2,7 @@
 # Auto generated from v8.bib
 ---
 booktitle: Proceedings of the third International Workshop on Machine Learning in
-  Systems Biology, September 5-6, 2009
+  Systems Biology
 address: Ljubljana, Slovenia
 publisher: JMLR Workshop and Conference Proceedings
 volume: 8
@@ -30,12 +30,12 @@ editor:
 - given: Juho
   family: Rousu
 title: Proceedings of the third International Workshop on Machine Learning in Systems
-  Biology, September 5-6, 2009
+  Biology
 conference: Proceedings of the third International Workshop on Machine Learning in
-  Systems Biology, September 5-6, 2009
+  Systems Biology
 email: ''
 description: Proceedings of the third International Workshop on Machine Learning in
-  Systems Biology, September 5-6, 2009, Ljubljana, Slovenia
+  Systems Biology, Ljubljana, Slovenia
 url: http://proceedings.mlr.press
 baseurl: "/v8"
 twitter_username: mlresearch
