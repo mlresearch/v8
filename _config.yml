@@ -17,12 +17,12 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: DzeroskiMLSB2009
+id: DzeroskiMLSB2009
 month: 0
 abstract: 
 origpdf: 
 pdf: "./DzeroskiMLSB2009/DzeroskiMLSB2009.pdf"
-editors:
+editor:
 - given: Sa\v{s}o
   family: D\v{z}eroski
 - given: Pierre

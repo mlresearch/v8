@@ -12,15 +12,18 @@ abstract: 'In this work we propose new ensemble methods for the hierarchical cla
   cost-insensitive hierarchical ensembles.'
 pdf: "./cesa-bianchi10a/cesa-bianchi10a.pdf"
 layout: inproceedings
-key: cesa-bianchi10a
+id: cesa-bianchi10a
 month: 0
 firstpage: 14
 lastpage: 29
+page: 14-29
 origpdf: http://jmlr.org/proceedings/papers/v8/cesa-bianchi10a/cesa-bianchi10a.pdf
 sections: 
-authors:
+author:
 - given: Nicolò
   family: Cesa-Bianchi
 - given: Giorgio
   family: Valentini
+date: '2009-03-02 00:00:14'
+publisher: PMLR
 ---
