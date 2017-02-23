@@ -10,7 +10,7 @@ abstract: 'In this work we propose new ensemble methods for the hierarchical cla
   the model organism \emph S. cerevisiae, using the FunCat taxonomy and seven biomolecular
   data sets, reveal a significant advantage of our techniques over “flat” and cost-insensitive
   hierarchical ensembles.'
-pdf: http://jmlr.org/proceedings/papers/v8/cesa-bianchi10a/cesa-bianchi10a.pdf
+pdf: http://proceedings.mlr.press/v8/cesa-bianchi10a/cesa-bianchi10a.pdf
 layout: inproceedings
 id: cesa-bianchi10a
 month: 0
@@ -23,7 +23,6 @@ author:
   family: Cesa-Bianchi
 - given: Giorgio
   family: Valentini
-reponame: v8
 date: 2009-03-02
 address: Ljubljana, Slovenia
 publisher: PMLR
