@@ -43,7 +43,8 @@ github:
   edit: true
   repository: v8
 conference:
-  name: 
+  name: Proceedings of the third International Workshop on Machine Learning in Systems
+    Biology
   url: 
   location: Ljubljana, Slovenia
   dates:
