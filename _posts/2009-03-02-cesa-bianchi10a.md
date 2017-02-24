@@ -12,6 +12,7 @@ abstract: 'In this work we propose new ensemble methods for the hierarchical cla
   hierarchical ensembles.'
 pdf: http://proceedings.mlr.press/v8/cesa-bianchi10a/cesa-bianchi10a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: cesa-bianchi10a
 month: 0
 firstpage: 14
