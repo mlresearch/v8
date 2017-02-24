@@ -41,7 +41,7 @@ github:
   repository: v8
 conference:
   name: Machine Learning in Systems Biology
-  url: 
+  url: http://mlsb09.ijs.si/
   location: Ljubljana, Slovenia
   dates:
   - 2009-09-05
