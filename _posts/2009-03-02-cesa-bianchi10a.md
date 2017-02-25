@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: cesa-bianchi10a
 month: 0
+tex_title: Hierarchical Cost-Sensitive Algorithms for Genome-Wide Gene Function Prediction
 firstpage: 14
 lastpage: 29
 page: 14-29

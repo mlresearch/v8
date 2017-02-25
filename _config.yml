@@ -18,6 +18,8 @@ series: Proceedings of Machine Learning Research
 id: DzeroskiMLSB2009
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Sašo
   family: Džeroski
@@ -25,7 +27,6 @@ editor:
   family: Guerts
 - given: Juho
   family: Rousu
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the third International Workshop on Machine Learning in Systems Biology
     Held in Ljubljana, Slovenia on 5-06 September 2009
