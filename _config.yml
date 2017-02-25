@@ -25,11 +25,20 @@ editor:
   family: Guerts
 - given: Juho
   family: Rousu
-title: Proceedings of the third International Workshop on Machine Learning in Systems
-  Biology
-email: ''
-description: Proceedings of the third International Workshop on Machine Learning in
-  Systems Biology, Ljubljana, Slovenia
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the third International Workshop on Machine Learning in Systems Biology
+    Held in Ljubljana, Slovenia on 5-06 September 2009
+
+  Published as Volume 8 by the Proceedings of Machine Learning Research on 02 March 2009.
+
+  Volume Edited by:
+    Sašo Džeroski
+    Pierre Guerts
+    Juho Rousu
+
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v8"
 twitter_username: mlresearch
@@ -39,6 +48,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v8
+email: ''
 conference:
   name: Machine Learning in Systems Biology
   url: http://mlsb09.ijs.si/
