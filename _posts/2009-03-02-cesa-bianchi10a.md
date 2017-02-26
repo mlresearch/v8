@@ -19,7 +19,8 @@ tex_title: Hierarchical Cost-Sensitive Algorithms for Genome-Wide Gene Function 
 firstpage: 14
 lastpage: 29
 page: 14-29
-sections: 
+order: 14
+cycles: false
 author:
 - given: Nicolò
   family: Cesa-Bianchi
