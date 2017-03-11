@@ -17,9 +17,6 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: DzeroskiMLSB2009
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Sašo
@@ -28,6 +25,7 @@ editor:
   family: Guerts
 - given: Juho
   family: Rousu
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the third International Workshop on Machine Learning in Systems Biology
     Held in Ljubljana, Slovenia on 05-06 September 2009
@@ -44,7 +42,7 @@ description: |
 date_str: 05--06 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v8"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -56,6 +54,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -70,3 +69,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v8.bib
+---
