@@ -7,7 +7,7 @@ abstract: 'In this work we propose new ensemble methods for the hierarchical cla
   annotations is built so to minimize a global loss function defined over the hierarchy.
   We also address the problem of sparsity of annotations by introducing a cost-sensitive
   parameter that allows to control the precision-recall trade-off. Experiments with
-  the model organism \emph S. cerevisiae, using the FunCat taxonomy and seven biomolecular
+  the model organism S. cerevisiae, using the FunCat taxonomy and seven biomolecular
   data sets, reveal a significant advantage of our techniques over “flat” and cost-insensitive
   hierarchical ensembles.'
 pdf: http://proceedings.mlr.press/v8/cesa-bianchi10a/cesa-bianchi10a.pdf
